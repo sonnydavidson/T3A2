@@ -16,3 +16,12 @@ Sam and myself over the last few weeks have been creating a reacte application c
 **Purpose**
 -----------
 The purpose of this app is to 
+
+---------------------------------------------------------------------------------------------------------
+
+**Target audience**
+-----------
+The target of this app is 
+
+
+---------------------------------------------------------------------------------------------------------
