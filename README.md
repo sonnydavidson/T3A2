@@ -12,6 +12,7 @@ Sam and myself over the last few weeks have been creating a reacte application c
 - [**Sonny Davidson**](https://github.com/sonnydavidson)
 - [**Sam Robertson**](https://github.com/samrobertson-creator)
 
-- **Purpose**
+---------------------------------------------------------------------------------------------------------
+**Purpose**
 -----------
 The purpose of this app is to 
